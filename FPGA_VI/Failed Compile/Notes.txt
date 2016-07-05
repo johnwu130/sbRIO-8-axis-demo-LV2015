@@ -1,0 +1,4 @@
+8-axis: could not add any limit function to FPGA.
+        also could not add any more DIO.
+
+5-axis: limit function uses digital filter, had to dig it out to make it work.
